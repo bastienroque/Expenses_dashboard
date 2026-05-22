@@ -1,7 +1,7 @@
 # TripleTen web_project_expenses
 
-# Funcionalidades
-Utilização de funções Javascript para o funcionamento da página
+# Features
+Use of JavaScript functions to power the page
 
-# Link para GitHub Pages
+# Link to GitHub Pages
 https://bastienroque.github.io/web_project_expenses_pt
